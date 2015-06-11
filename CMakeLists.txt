@@ -13,6 +13,7 @@ include_directories("atlas/lib/mongoose/include")
 include_directories("atlas/include")
 include_directories("commandline/include")
 include_directories("hades/include")
+include_directories("hades/lib/catch/include")
 include_directories("hades/lib/sqlite3/include")
 
 add_definitions("-std=c++11")
