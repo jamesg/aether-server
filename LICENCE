@@ -1,0 +1,54 @@
+Third Party Libraries
+=====================
+
+Web Application
+---------------
+
+### Open Iconic
+
+Website: "Open Iconic's icons are licensed under the MIT Licence and its fonts
+are under the Open Font License."
+
+### JQuery
+
+Website: "jQuery Foundation projects are released under the terms of the license
+specified in the project's repo or if not specified, under the MIT license."
+
+### Backbone
+
+Website: "Backbone is available for use under the MIT software license."
+
+### Underscore
+
+Custom licence available at
+https://github.com/jashkenas/underscore/blob/master/LICENSE
+
+Server
+------
+
+### libmongoose
+
+GPLv2, obtainable from http://www.gnu.org/licenses/gpl-2.0.html
+
+Sensor
+------
+
+### ArduinoJson
+
+MIT Licence - https://github.com/bblanchon/ArduinoJson/blob/master/LICENSE.md
+
+### LiquidCrystal
+
+Standard Arduino library
+
+### OneWire
+
+Several contributors - appears to be MIT.
+
+### Arduino Core and Standard Arduino Libraries
+
+"Using the Arduino core and libraries for the firmware of a commercial product
+does not require you to release the source code for the firmware. The LGPL does,
+however, require you to make available object files that allow for the relinking
+of the firmware against updated versions of the Arduino core and libraries. Any
+modifications to the core and libraries must be released under the LGPL."
